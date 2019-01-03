@@ -1,5 +1,5 @@
 user/testLogin
-#user/testRegister
+user/testRegister
 #user/testRegisterQuick
 #user/testGenerate
 #user/testLoginFB
